@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D2530479-F3CF-400E-A477-ADF211D75B94}") = "Tree Generations", "Assembly-CSharp.csproj", "{63956500-BFCC-3ECB-FCCF-DBA3D3C0D7DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63956500-BFCC-3ECB-FCCF-DBA3D3C0D7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63956500-BFCC-3ECB-FCCF-DBA3D3C0D7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63956500-BFCC-3ECB-FCCF-DBA3D3C0D7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63956500-BFCC-3ECB-FCCF-DBA3D3C0D7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
