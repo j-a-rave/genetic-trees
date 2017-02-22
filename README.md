@@ -2,6 +2,8 @@
 
 This project is a practice in meditative games and genetics.
 
+![genetic-trees](generations.gif?raw=true)
+
 Left-click to choose a parent tree. When you have two, left-click on the ground to generate a child of that tree. Right-click to clear parent trees.
 Use WASD or arrow keys to move.
 
